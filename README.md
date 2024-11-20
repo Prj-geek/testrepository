@@ -1,4 +1,4 @@
 # testrepository
-Thia ia my first repository
+Thia is my first repository
 <br>
 Author - Priyanshu
